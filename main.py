@@ -1,6 +1,6 @@
 import os
 
-iterations = 40
+iterations = 35
 svgHeight = 3259
 svgWidth = 2244
 
