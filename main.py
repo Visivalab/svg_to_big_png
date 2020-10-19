@@ -6,7 +6,7 @@ svgHeight = 3259
 svgWidth = 2244
 #svgHeight = 99
 #svgWidth = 91
-exportHeight = 1000
+exportHeight = 1500000
 filename = "layoutmappaHERA.svg"
 
 # probabilmente è possibile velocizzare il tutto usando parallelismo
